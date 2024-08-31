@@ -63,7 +63,7 @@
     "mini-css-extract-plugin": "^2.3.0",
     "node-sass": "^6.0.1",
     "sass-loader": "^12.1.0",
-    "start-server-and-test": "^1.11.4",
+    "start-server-and-test": "^2.0.5",
     "style-loader": "^3.2.1",
     "ts-jest": "^27.0.5",
     "ts-loader": "^9.2.5",
@@ -74,7 +74,7 @@
     "webpack-merge": "^5.1.4"
   },
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.7.6",
     "express": "^4.19.2",
     "express-history-api-fallback": "^2.2.1",
     "react": "^17.0.2",
